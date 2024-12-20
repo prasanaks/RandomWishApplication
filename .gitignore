@@ -18,6 +18,3 @@ Thumbs.db
 # Package distribution files
 dist/
 build/
-
-# Optional: You might want to ignore the assignments.json if it contains sensitive data
-assignments.json
