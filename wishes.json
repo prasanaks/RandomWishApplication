@@ -1,0 +1,14 @@
+{
+    "wishes": [
+        {
+            "name": "Alice",
+            "trigram": "ALC",
+            "wish": "A new book"
+        },
+        {
+            "name": "Bob",
+            "trigram": "BOB",
+            "wish": "A new phone"
+        }
+    ]
+}

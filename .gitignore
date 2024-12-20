@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Package distribution files
+dist/
+build/
+
+# Optional: You might want to ignore the assignments.json if it contains sensitive data
+assignments.json
